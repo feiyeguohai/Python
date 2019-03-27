@@ -1,0 +1,24 @@
+Task No. 1300041033 	 Project Name: 0_Git_Check_Frame_CodeDEX_IPPS 	 Status: Executing 	 Time: 2/3 Running analysis... 
+Task No. 1300041032 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 5 minutes 
+Task No. 1300041031 	 Project Name: NetOpen_ONT_CPlugin_Develop_CodeDEX_CodeDEX 	 Status: Error 	 Time: Analysis failed 
+Task No. 1300041030 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 4 minutes 
+Task No. 1300041029 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 4 minutes 
+Task No. 1300041028 	 Project Name: IPCrystal_Git_Release_CodeDEX_IPPS 	 Status: Completed 	 Time: Execute 187 minutes 
+Task No. 1300041027 	 Project Name: NetOpen_ONT_CPlugin_Develop_CodeDEX_CodeDEX 	 Status: Error 	 Time: Analysis failed 
+Task No. 1300041026 	 Project Name: NCE_CPlugin_CSEC_CodeDEX_CodeDEX 	 Status: Error 	 Time: Analysis failed 
+Task No. 1300041025 	 Project Name: NCE_CPlugin_CodeDEX_CodeDEX 	 Status: Completed 	 Time: Execute 58 minutes 
+Task No. 1300041024 	 Project Name: IPCrystal_Git_master_CodeDEX_IPPS 	 Status: Completed 	 Time: Execute 104 minutes 
+Task No. 1300041023 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 5 minutes 
+Task No. 1300041022 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 4 minutes 
+Task No. 1300041021 	 Project Name: NetOpen_ONT_CPlugin_Develop_CodeDEX_CodeDEX 	 Status: Completed 	 Time: Execute 46 minutes 
+Task No. 1300041020 	 Project Name: NCE_CPlugin_CodeDEX_CodeDEX 	 Status: Completed 	 Time: Execute 54 minutes 
+Task No. 1300041019 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 5 minutes 
+Task No. 1300041018 	 Project Name: NCE_CPlugin_CSEC_CodeDEX_CodeDEX 	 Status: Completed 	 Time: Execute 44 minutes 
+Task No. 1300041017 	 Project Name: 1_IPCrystal_Release_CPP_CodeDEX_Sim 	 Status: Completed 	 Time: Execute 96 minutes 
+Task No. 1300041016 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 4 minutes 
+Task No. 1300041015 	 Project Name: 1_IPCrystal_Master_CPP_CodeDEX_Sim 	 Status: Completed 	 Time: Execute 97 minutes 
+Task No. 1300041014 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 5 minutes 
+Task No. 1300041013 	 Project Name: codedex_PI3_java 	 Status: Completed 	 Time: Execute 63 minutes 
+Task No. 1300041012 	 Project Name: cloudccp_cloudccp 	 Status: Completed 	 Time: Execute 4 minutes 
+Task No. 1300041011 	 Project Name: IPCrystal_Git_Release_CodeDEX_IPPS 	 Status: Completed 	 Time: Execute 264 minutes 
+Task No. 1300041010 	 Project Name: 0_SVN_Compile_MultiLevel_CodeDEX_Sim 	 Status: Completed 	 Time: Execute 42 minutes 

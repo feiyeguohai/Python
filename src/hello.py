@@ -36,6 +36,7 @@ while True:
 
 it =  IteTest(10)
 for x in it: print(x, end=",")
+print('')
 
 # 全局变量  局部变量 以及 相应关键字使用
 num = 100
@@ -49,3 +50,4 @@ def outer():
     print(num)
 outer()
 print(num)
+
