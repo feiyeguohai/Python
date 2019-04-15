@@ -28,4 +28,6 @@ learn python project
 2019-05-17    |   数据分析python    | 看书  数据分析 python相关
 
 # 4.保留成果
+    * python语言学习完成，输出python.xmind (2019-03-13)
+    * 爬虫练习完成,使用bs4,scapy两种框架（2019-04-15）
 
